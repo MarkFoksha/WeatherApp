@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        networkWeatherManager.fetchCurrentWeather(forCity: "London")
+        networkWeatherManager.fetchCurrentWeather(forCity: "Kyiv")
     } 
     
 

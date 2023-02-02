@@ -16,6 +16,7 @@
 		1353224F297FFBC900A1ACCC /* VC + Alert Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1353224E297FFBC900A1ACCC /* VC + Alert Controller.swift */; };
 		1387B15C2982B1E200BB24F0 /* NetworkWeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1387B15B2982B1E200BB24F0 /* NetworkWeatherManager.swift */; };
 		1387B15F2982B53000BB24F0 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1387B15E2982B53000BB24F0 /* Constants.swift */; };
+		1387B16129830BE400BB24F0 /* CurrentWeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1387B16029830BE400BB24F0 /* CurrentWeatherData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		1353224E297FFBC900A1ACCC /* VC + Alert Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "VC + Alert Controller.swift"; sourceTree = "<group>"; };
 		1387B15B2982B1E200BB24F0 /* NetworkWeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkWeatherManager.swift; sourceTree = "<group>"; };
 		1387B15E2982B53000BB24F0 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		1387B16029830BE400BB24F0 /* CurrentWeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeatherData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				1387B15B2982B1E200BB24F0 /* NetworkWeatherManager.swift */,
+				1387B16029830BE400BB24F0 /* CurrentWeatherData.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				1387B15C2982B1E200BB24F0 /* NetworkWeatherManager.swift in Sources */,
 				1353224F297FFBC900A1ACCC /* VC + Alert Controller.swift in Sources */,
 				13532238297FFA7100A1ACCC /* SceneDelegate.swift in Sources */,
+				1387B16129830BE400BB24F0 /* CurrentWeatherData.swift in Sources */,
 				1387B15F2982B53000BB24F0 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
